@@ -57,3 +57,10 @@ xcuserdata/
 *.xcworkspace
 *.xcodeproj/
 DerivedData/
+
+/part1
+/part2
+/inxdex
+/main
+/test
+
