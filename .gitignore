@@ -1,0 +1,59 @@
+# Binaries for C and C++
+*.out
+*.exe
+*.o
+*.so
+*.a
+*.lib
+*.dll
+*.dylib
+
+# Build directories
+/build/
+/bin/
+/obj/
+/dist/
+
+# CMake-generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Thumbnails
+._*
+
+# macOS Finder metadata files
+.Spotlight-V100
+.Trashes
+.DS_Store
+
+# Temporary files created by macOS
+*.swp
+*.swo
+*.tmp
+*.log
+*~
+
+# IDE-specific files (adjust based on your IDE)
+.vscode/
+.idea/
+*.iml
+
+# Backup or temporary files
+*.bak
+*.class
+
+# clangd-specific files (if using clangd language server)
+.clangd/
+
+# Xcode-specific files (if using Xcode)
+xcuserdata/
+*.xcworkspace
+*.xcodeproj/
+DerivedData/
