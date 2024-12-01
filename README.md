@@ -1,2 +1,4 @@
-# advent_of_code_2024
-🚀 Advent of Code 2023.
+### 🚀 Advent of Code 2024
+
+[Open Website](https://adventofcode.com/2024)
+ 
